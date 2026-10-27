@@ -186,3 +186,8 @@ For complete request and response schemas, run the backend and open `http://127.
 - Use a production database such as PostgreSQL through `DATABASE_URL`.
 - Do not commit `.env`, database files, or generated tokens.
 - The Android cleartext-traffic exception is limited to debug builds for local development.
+
+## Authors
+- Mehrshad Dehghani
+- Sana Babayan
+- Dorsa Sharifi Ghombavani
